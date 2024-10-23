@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small project showcasing the use and power of turbo in Rails 7
 
-Things you may want to cover:
+## Start the project
 
-* Ruby version
+* bin/setup
 
-* System dependencies
+* .bin/dev
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Start your server at: 
+* http://localhost:3000
